@@ -4,6 +4,7 @@
 
 name: GitHub's Super Linter
 on: push
+
 jobs:
 
   run-linters:
